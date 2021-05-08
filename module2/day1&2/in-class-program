@@ -1,0 +1,16 @@
+<head>
+<title>
+in class exercise
+</title>
+</head>
+<body>
+    <p>
+    Welcome to my program! put your age, and I will tell you someting cool about your age.
+    </p>
+    <div>
+        <label> Your Age </label>
+        <input id="ageInput" type="number">
+    </div>
+    <script>
+    var ageInput = document.getElementById("ageInput)
+    ageInput.addEventListener('input', (e) => {}
